@@ -1,0 +1,16 @@
+@media (max-width: 768px) {
+  .ntp {
+    display: none;
+  }
+  #nav-bar {
+    height: auto;
+    display: block;
+  }
+  #nav-bar a:link,
+  a:visited {
+    display: block;
+    padding: 10px;
+    border-left: none;
+    text-align: left;
+  }
+}

@@ -1,0 +1,23 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+  .ntp {
+    display: none;
+  }
+  #nav-bar a:link,
+  a:visited {
+    padding: 10px;
+    margin-right: 1rem;
+    padding-bottom: 30px;
+  }
+  #nav-bar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  #personal-info {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
+.m31 {
+  flex-direction: column;
+  gap: 30px;
+}
